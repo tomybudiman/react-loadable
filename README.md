@@ -49,6 +49,7 @@ export default class App extends React.Component {
 - [Snipit](https://snipit.io)
 - [Spectrum.chat](https://spectrum.chat)
 - [Talentpair](https://talentpair.com)
+- [Taralite](https://www.taralite.com)
 - [Tinder](https://tinder.com/)
 - [Unsplash](https://unsplash.com/)
 - [Wave](https://waveapps.com/)
